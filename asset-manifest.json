@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PierrickRauby.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/PierrickRauby.github.io/static/js/main.59078e91.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PierrickRauby.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/PierrickRauby.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PierrickRauby.github.io/index.html",
+    "main.073c9b0a.css.map": "/PierrickRauby.github.io/static/css/main.073c9b0a.css.map",
+    "main.59078e91.js.map": "/PierrickRauby.github.io/static/js/main.59078e91.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PierrickRauby.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.59078e91.js"
+  ]
+}
